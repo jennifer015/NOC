@@ -1,0 +1,148 @@
+﻿Public cloud app,Category,Reputation,Asset risk score,Users,Devices,Visits,Status,Last detected
+Microsoft 365 security center,IT Security,Good,0,0,318,351972,Not configured,2026-10-05 18:52:45
+Microsoft Azure,Cloud Computing Platform,Good,0,51,321,331004,Not configured,2026-10-05 20:38:36
+DigiCert,IT Security,Good,0,215,273,264364,Not configured,2026-10-05 20:38:36
+Qualys,IT Security,Good,0,107,260,227681,Not configured,2026-10-05 20:38:36
+Azure DevOps Services,Development Tools,Good,0,83,278,172520,Not configured,2026-10-05 20:38:36
+Microsoft Account,"Content Management|Human Resource & Operations",Good,0,124,322,99568,Not configured,2026-10-05 20:38:36
+AnyDesk,"Collaboration|IT Services & Support",Good,0,1,4,58698,Not configured,2026-10-05 20:38:36
+Microsoft Windows Update,Customer Service & Support,Good,0,0,325,20128,Not configured,2026-10-05 18:52:45
+Adobe,"Content Management|Design & Creativity",Good,0,141,32,19041,Not configured,2026-10-05 20:38:36
+Microsoft Online Services,IT Services & Support,Good,0,5,295,16842,Not configured,2026-10-05 18:52:45
+Park Place Technologies,IT Services & Support,Moderate,0,2,2,11264,Not configured,2026-10-05 20:38:36
+Red Hat,IT Services & Support,Good,0,0,35,10640,Not configured,2026-10-05 18:52:45
+SOTI MobiControl,IT Services & Support,Moderate,0,2,2,9962,Not configured,2026-10-05 20:38:36
+Microsoft 365 admin center,"Business Process Management|Collaboration",Good,0,1,223,9517,Trusted,2026-10-05 18:52:45
+Zoho,Collaboration,Good,0,6,115,9385,Not configured,2026-10-05 18:52:45
+Zoho ServiceDesk Plus Cloud,IT Services & Support,Good,0,5,116,5614,Not configured,2026-10-05 18:52:45
+Microsoft Edge,Content Management,Good,0,0,273,3443,Not configured,2026-10-05 18:52:45
+Microsoft Skype for Business,Communications,Good,0,0,286,2985,Not configured,2026-10-05 18:52:45
+Microsoft Defender Smartscreen,IT Security,Good,0,0,226,2963,Not configured,2026-10-05 18:52:45
+GlobalSign,IT Security,Good,0,67,134,2551,Not configured,2026-10-05 20:38:36
+ServiceNow,"Cloud Computing Platform|IT Services & Support",Good,0,377,1,1972,Trusted,2026-10-05 18:52:45
+Ubuntu,"IT Services & Support|Hosting Service",Good,0,1,1,1970,Not configured,2026-10-05 20:38:36
+Microsoft Copilot for Microsoft 365,Artificial Intelligence,Good,0,5,4,1918,Not configured,2026-10-05 19:45:12
+Microsoft OneDrive for Business,Cloud Sharing & Storage,Good,0,15,9,1613,Trusted,2026-10-05 20:38:36
+Google Cloud APIs,Cloud Computing Platform,Good,0,0,77,1578,Not configured,2026-10-05 18:52:45
+Microsoft Volume Licensing,IT Services & Support,Good,0,0,185,1286,Not configured,2026-10-05 18:52:45
+Microsoft Store,E-Commerce,Good,0,0,227,1238,Not configured,2026-10-05 18:52:45
+Microsoft Dynamics 365,Sales,Good,0,1,1,933,Not configured,2026-10-05 20:38:36
+Microsoft Office 365 admin center,Collaboration,Good,0,2,27,905,Not configured,2026-10-05 19:45:12
+Microsoft Office Online,Collaboration,Good,0,0,68,890,Not configured,2026-10-05 18:52:45
+Microsoft Copilot / Bing Copilot / Bing Search,"Content Management|Search Engine|Artificial Intelligence",Good,0,0,154,848,Not configured,2026-10-05 18:52:45
+DHL,"Human Resource & Operations|Logistics",Good,0,1,1,839,Not configured,2026-10-05 19:45:12
+Veeam,"Cloud Computing Platform|IT Services & Support",Good,0,1,10,761,Not configured,2026-10-05 18:52:45
+Microsoft Cloud App Security,IT Security,Good,0,0,51,733,Not configured,2026-10-05 18:52:45
+Google Search,Search Engine,Good,0,1,45,618,Not configured,2026-10-05 18:52:45
+Google Chrome,Content Management,Good,0,14,29,436,Not configured,2026-10-05 20:38:36
+Oracle,"Cloud Computing Platform|IT Services & Support",Good,0,12,22,393,Not configured,2026-10-05 19:45:12
+GitHub,"Development Tools|Artificial Intelligence",Good,0,6,43,352,Not configured,2026-10-05 20:38:36
+Microsoft MSN,News and Entertainment,Good,0,0,62,339,Not configured,2026-10-05 18:52:45
+Verisign,Hosting Service,Good,0,9,9,288,Not configured,2026-10-05 20:38:36
+Red Hat Customer Portal,IT Services & Support,Good,0,0,3,276,Not configured,2026-10-05 18:52:45
+Microsoft Outlook Business Edition,Webmail,Good,0,4,4,216,Trusted,2026-10-05 19:45:12
+GoDaddy,Hosting Service,Good,0,3,4,209,Not configured,2026-10-05 20:38:36
+Palo Alto Networks,"IT Security|Artificial Intelligence",Good,0,0,1,204,Not configured,2026-09-22 12:37:48
+Microsoft SharePoint Online,Collaboration,Good,0,1,18,156,Trusted,2026-10-05 16:44:14
+Google Play,E-Commerce,Good,0,0,15,138,Not configured,2026-10-05 12:48:35
+Dell,IT Services & Support,Good,0,0,3,135,Not configured,2026-10-05 20:38:36
+Telegram,Communications,Moderate,0,0,4,132,Not configured,2026-10-05 18:52:45
+Microsoft Defender Antivirus,IT Security,Good,0,0,84,122,Not configured,2026-10-05 12:48:35
+Adobe I/O,"Development Tools|IT Services & Support",Good,0,12,7,102,Not configured,2026-10-05 00:34:37
+PubMatic,Sales,Moderate,0,1,3,96,Not configured,2026-09-21 11:07:44
+TeamViewer,"Collaboration|Communications",Good,0,0,1,92,Not configured,2026-09-10 13:33:19
+Microsoft Graph,Development Tools,Good,0,0,3,86,Not configured,2026-10-05 12:48:35
+Entrust IdentityGuard,IT Security,Good,0,3,13,85,Not configured,2026-10-04 18:32:38
+Cornerstone OnDemand,Human Resource & Operations,Good,0,30,0,83,Trusted,2026-09-20 06:51:00
+Zoho AppCreator,"Business Process Management|Cloud Computing Platform",Good,0,0,7,71,Not configured,2026-10-05 12:48:35
+Microsoft Outlook,Webmail,Good,0,0,3,69,Not configured,2026-10-05 12:48:35
+OpenAI ChatGPT,"Knowledge Management|Artificial Intelligence",Good,0,4,5,55,Not configured,2026-09-22 15:25:15
+VMware,IT Services & Support,Good,0,0,11,52,Not configured,2026-10-05 00:34:37
+GeoTrust,IT Security,Good,0,9,9,52,Not configured,2026-10-02 13:38:41
+Amazon Simple Storage Service,Cloud Sharing & Storage,Good,0,1,8,49,Not configured,2026-10-05 15:47:09
+Edicom,IT Services & Support,Moderate,0,0,1,48,Not configured,2026-10-05 12:48:35
+Facebook,Social Network,Good,0,1,6,43,Not configured,2026-10-05 00:34:37
+Magnite,Sales,Good,0,1,3,43,Not configured,2026-09-21 11:07:44
+Brave,"Content Management|Artificial Intelligence",Moderate,0,0,1,43,Not configured,2026-10-03 12:48:10
+Duo,IT Security,Good,0,1,2,34,Not configured,2026-10-05 06:40:47
+Backtrace,IT Services & Support,Good,0,1,2,30,Not configured,2026-10-03 12:24:51
+Symantec,IT Security,Good,0,2,3,28,Not configured,2026-10-02 02:29:05
+Microsoft Stream,Collaboration,Good,0,0,11,27,Trusted,2026-10-02 18:53:58
+Microsoft Infrastructure Apps,"Collaboration|IT Security",Good,0,0,5,26,Not configured,2026-10-05 12:48:35
+YouTube,Knowledge Management,Good,0,2,8,22,Not configured,2026-09-25 21:31:13
+Citrix Systems,"IT Services & Support|IT Security",Good,0,0,1,20,Not configured,2026-09-23 09:39:08
+Microsoft Teams,"Collaboration|Communications",Good,0,0,4,18,Trusted,2026-10-03 21:43:36
+Chrome Web Store,"Collaboration|IT Services & Support",Good,0,0,2,18,Not configured,2026-10-05 15:47:09
+Microsoft Clarity,Business Intelligence and Analytics,Good,0,2,7,18,Not configured,2026-10-03 15:46:13
+Criteo,Sales,Good,0,1,3,17,Not configured,2026-09-21 11:07:44
+WinSCP,Collaboration,Moderate,0,4,6,17,Not configured,2026-10-05 16:44:14
+Web Help Desk,"IT Services & Support|Sales",Good,0,1,1,16,Not configured,2026-09-10 15:35:47
+Amazon,E-Commerce,Good,0,1,3,15,Not configured,2026-09-14 19:17:29
+Postman,Development Tools,Good,0,1,2,15,Not configured,2026-09-09 15:40:17
+Zoho Assist,"Collaboration|Human Resource & Operations",Good,0,0,13,13,Not configured,2026-10-02 15:45:54
+Adobe Express,Design & Creativity,Good,0,5,1,12,Not configured,2026-09-29 14:37:35
+Oracle Application Express,Development Tools,Good,0,2,3,12,Not configured,2026-10-05 19:45:12
+Wikipedia,Education,Good,0,1,3,12,Not configured,2026-09-14 19:17:29
+Smart AdServer,Sales,Moderate,0,1,3,12,Not configured,2026-09-14 12:43:37
+Improve Digital,Sales,Moderate,0,1,3,12,Not configured,2026-09-14 12:43:37
+Google AdSense,Sales,Good,0,1,3,11,Not configured,2026-09-21 11:07:44
+Acrobat,Design & Creativity,Good,0,1,4,11,Not configured,2026-09-25 20:17:48
+Google Safe Browsing,Development Tools,Good,0,0,2,11,Not configured,2026-10-05 12:48:35
+Temu,E-Commerce,Moderate,0,1,3,11,Not configured,2026-09-14 12:43:37
+Google Cloud Storage,Cloud Sharing & Storage,Good,0,0,5,10,Not configured,2026-10-01 19:03:36
+Amazon FreeRTOS,Cloud Computing Platform,Good,0,0,8,9,Not configured,2026-09-27 09:39:17
+Microsoft Power BI,Business Intelligence and Analytics,Good,0,1,1,9,Trusted,2026-09-10 17:31:59
+Google Drive,Cloud Sharing & Storage,Good,0,0,1,9,Not configured,2026-09-25 21:31:13
+AniView,Sales,Moderate,0,0,2,9,Not configured,2026-09-10 18:42:07
+VDO.AI,Artificial Intelligence,Moderate,0,1,3,9,Not configured,2026-09-14 12:43:37
+Airbrake,IT Services & Support,Good,0,1,1,8,Not configured,2026-09-11 12:35:19
+PDF24,Content Management,Good,0,1,1,8,Not configured,2026-09-29 19:22:05
+Google Analytics,"Business Intelligence and Analytics|Collaboration",Good,0,0,4,7,Not configured,2026-09-29 15:48:13
+SourceForge,Development Tools,Good,0,0,1,7,Not configured,2026-09-11 12:35:19
+Speedtest,Online Service,Moderate,0,1,3,7,Not configured,2026-09-21 11:07:44
+Gmail,Webmail,Good,0,0,1,5,Not configured,2026-09-25 21:31:13
+Microsoft Power Automate,Collaboration,Good,0,0,1,5,Trusted,2026-10-05 12:48:35
+Canva,"Design & Creativity|IT Security|Artificial Intelligence",Good,0,0,1,5,Not configured,2026-09-22 09:57:18
+Sentry,Development Tools,Good,0,1,1,5,Not configured,2026-09-21 15:40:03
+Reddit,Social Network,Good,0,1,3,5,Not configured,2026-09-14 19:17:29
+Outbrain,Sales,Moderate,0,1,3,5,Not configured,2026-09-14 12:43:37
+Avast,IT Security,Moderate,0,0,1,5,Not configured,2026-09-30 15:48:53
+Qualified,Artificial Intelligence,Moderate,0,0,3,5,Not configured,2026-09-18 21:29:16
+InMobi,Sales,Moderate,0,1,2,5,Not configured,2026-09-14 12:43:37
+Docker,"Cloud Computing Platform|IT Services & Support",Good,0,0,1,4,Not configured,2026-09-29 12:49:14
+AppNexus,Sales,Good,0,1,1,4,Not configured,2026-10-04 06:29:56
+MicroStrategy,Business Intelligence and Analytics,Good,0,1,1,4,Not configured,2026-09-10 13:33:19
+Schneider Electric,Online Service,Moderate,0,1,1,4,Not configured,2026-09-24 18:28:17
+Office 365,Collaboration,Good,0,0,2,3,Not configured,2026-09-23 12:41:12
+Microsoft Support,Customer Service & Support,Good,0,0,3,3,Not configured,2026-09-21 15:40:03
+LinkedIn Ads,Sales,Good,0,0,1,3,Not configured,2026-09-24 18:55:18
+Trivago,Transportation and Travel,Moderate,0,1,1,3,Not configured,2026-09-14 19:17:29
+EnterpriseDB,IT Services & Support,Moderate,0,0,1,3,Not configured,2026-09-09 15:40:17
+Slack,Collaboration,Good,0,0,1,2,Not configured,2026-10-05 12:48:35
+Google Workspace,Collaboration,Good,0,0,1,2,Not configured,2026-09-25 21:31:13
+Google Hangouts Meet,Communications,Good,0,0,1,2,Not configured,2026-09-25 21:31:13
+Apple,"E-Commerce|IT Services & Support",Good,0,0,2,2,Not configured,2026-09-30 00:37:53
+CloudFlare,"IT Security|Hosting Service",Good,0,1,1,2,Not configured,2026-09-14 20:12:15
+Zoom,Communications,Good,0,0,1,2,Not configured,2026-09-22 12:37:48
+Google Contacts,Collaboration,Good,0,0,1,2,Not configured,2026-09-25 21:31:13
+Disqus,Communications,Good,0,0,2,2,Not configured,2026-09-10 18:42:07
+Pendo Platform,Business Intelligence and Analytics,Moderate,0,0,1,2,Not configured,2026-09-08 03:37:48
+Google AI Studio,Artificial Intelligence,Good,0,0,1,1,Not configured,2026-09-09 19:05:43
+Microsoft Excel Online,Collaboration,Good,0,0,1,1,Not configured,2026-09-08 15:42:28
+Microsoft Tech Community,Communications,Good,0,0,1,1,Not configured,2026-09-11 12:35:19
+Zoho SalesIQ,Sales,Good,0,0,1,1,Not configured,2026-10-03 12:48:10
+LaunchDarkly,Development Tools,Good,0,0,1,1,Not configured,2026-09-07 12:29:42
+ZohoDesk,IT Services & Support,Good,0,0,1,1,Not configured,2026-09-23 12:41:12
+VirtualBox,"IT Services & Support|Cloud Computing Platform",Good,0,0,1,1,Not configured,2026-09-17 12:44:56
+npm,Development Tools,Good,0,0,1,1,Not configured,2026-09-18 18:47:36
+Google Hangouts Chat,Communications,Good,0,0,1,1,Not configured,2026-09-25 21:31:13
+X,Social Network,Good,0,0,1,1,Not configured,2026-09-15 15:37:41
+My Oracle Support,Customer Service & Support,Moderate,0,0,1,1,Not configured,2026-09-17 15:37:29
+TrustArc,IT Security,Moderate,0,0,1,1,Not configured,2026-10-02 18:53:58
+Bidswitch,Sales,Moderate,0,0,1,1,Not configured,2026-09-10 18:42:07
+tawk.to,Customer Service & Support,Moderate,0,0,1,1,Not configured,2026-09-10 18:42:07
+Telerik,Business Process Management,Moderate,0,0,1,1,Not configured,2026-09-10 18:42:07
+Qualaroo,"Business Intelligence and Analytics|Sales",Moderate,0,0,1,1,Not configured,2026-09-10 18:42:07
+DeepL Translator,"Collaboration|Artificial Intelligence",Moderate,0,0,1,1,Not configured,2026-09-05 18:35:02
+Apache Taverna,"Business Process Management|IT Services & Support",Moderate,0,0,1,1,Not configured,2026-09-11 21:36:56
+IPinfo,Development Tools,Moderate,0,1,1,1,Not configured,2026-10-05 12:51:25
