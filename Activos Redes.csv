@@ -1,0 +1,341 @@
+﻿Hostname,Type,Owner,IP,OS
+accesspoint-151.1,Access point,Julio Casiano,10.129.151.1,-
+accesspoint-151.10,Access point,Julio Casiano,10.129.151.10,-
+accesspoint-151.12,Access point,Julio Casiano,10.129.151.12,-
+accesspoint-151.129,Access point,Julio Casiano,10.129.151.129,-
+accesspoint-151.131,Access point,Julio Casiano,10.129.151.131,-
+accesspoint-151.132,Access point,Julio Casiano,10.129.151.132,-
+accesspoint-151.133,Access point,Julio Casiano,10.129.151.133,-
+accesspoint-151.134,Access point,Julio Casiano,10.129.151.134,-
+accesspoint-151.135,Access point,Julio Casiano,10.129.151.135,-
+accesspoint-151.138,Access point,Julio Casiano,10.129.151.138,-
+accesspoint-151.139,Access point,Julio Casiano,10.129.151.139,-
+accesspoint-151.14,Access point,Julio Casiano,10.129.151.14,-
+accesspoint-151.141,Access point,Julio Casiano,10.129.151.141,-
+accesspoint-151.142,Access point,Julio Casiano,10.129.151.142,-
+accesspoint-151.143,Access point,Julio Casiano,10.129.151.143,-
+accesspoint-151.145,Access point,Julio Casiano,10.129.151.145,-
+accesspoint-151.146,Access point,Julio Casiano,10.129.151.146,-
+accesspoint-151.147,Access point,Julio Casiano,10.129.151.147,-
+accesspoint-151.148,Access point,Julio Casiano,10.129.151.148,-
+accesspoint-151.149,Access point,Julio Casiano,10.129.151.149,-
+accesspoint-151.15,Access point,Julio Casiano,10.129.151.15,-
+accesspoint-151.150,Access point,Julio Casiano,10.129.151.150,-
+accesspoint-151.151,Access point,Julio Casiano,10.129.151.151,-
+accesspoint-151.152,Access point,Julio Casiano,10.129.151.152,-
+accesspoint-151.153,Access point,Julio Casiano,10.129.151.153,-
+accesspoint-151.154,Access point,Julio Casiano,10.129.151.154,-
+accesspoint-151.155,Access point,Julio Casiano,10.129.151.155,-
+accesspoint-151.156,Access point,Julio Casiano,10.129.151.156,Linux 2.6 / FUJI XEROX DocuCentre
+accesspoint-151.157,Access point,Julio Casiano,10.129.151.157,-
+accesspoint-151.158,Access point,Julio Casiano,10.129.151.158,-
+accesspoint-151.159,Access point,Julio Casiano,10.129.151.159,-
+accesspoint-151.16,Access point,Julio Casiano,10.129.151.16,-
+accesspoint-151.160,Access point,Julio Casiano,10.129.151.160,-
+accesspoint-151.161,Access point,Julio Casiano,10.129.151.161,-
+accesspoint-151.162,Access point,Julio Casiano,10.129.151.162,-
+accesspoint-151.163,Access point,Julio Casiano,10.129.151.163,-
+accesspoint-151.165,Access point,Julio Casiano,10.129.151.165,-
+accesspoint-151.166,Access point,Julio Casiano,10.129.151.166,-
+accesspoint-151.167,Access point,Julio Casiano,10.129.151.167,-
+accesspoint-151.17,Access point,Julio Casiano,10.129.151.17,-
+accesspoint-151.2,Access point,Julio Casiano,10.129.151.2,-
+accesspoint-151.21,Access Point,Julio Casiano,10.129.151.21,-
+accesspoint-151.22,Access point,Julio Casiano,10.129.151.22,-
+accesspoint-151.3,Access point,Julio Casiano,10.129.151.3,-
+accesspoint-151.31,Access point,Julio Casiano,10.129.151.31,-
+accesspoint-151.32,Access point,Julio Casiano,10.129.151.32,-
+accesspoint-151.33,Access point,Julio Casiano,10.129.151.33,-
+accesspoint-151.34,Access point,Julio Casiano,10.129.151.34,-
+accesspoint-151.35,Access point,Julio Casiano,10.129.151.35,-
+accesspoint-151.7,Access point,Julio Casiano,10.129.151.7,-
+accesspoint-151.9,Access point,Julio Casiano,10.129.151.9,Netgear Switch
+accesspoint-8.121,Access point,Julio Casiano,10.129.8.121,-
+cisco unity node 2,Appliance,Julio Casiano,10.129.17.9,Linux 2.6 / Linux 3.1
+core morelos,Switch,Julio Casiano,10.129.5.250,Cisco IOS XE 17.12.06
+core terminal,Switch,Julio Casiano,10.129.36.250,Cisco IOS XE 17.12.06
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+fw node 1,Firewall,Julio Casiano,10.129.128.2,VMware ESX Server
+fw node 2,Firewall,Julio Casiano,10.129.128.1,VMware ESX Server
+fw-5200,Firewall,Julio Casiano,10.129.25.12,-
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+hph3lp-fmc01.hph.com.local,Appliance,Julio Casiano,10.129.203.241,Ubuntu/Linux
+hph3lp-fmc02.hph.com.local,Appliance,Julio Casiano,10.129.201.241,Red Hat Enterprise Linux 8.10
+hph3lp-fw.hph.com.local,Appliance,Julio Casiano,10.129.5.172,Checkpoint OS
+,,,,
+,,,,
+,,,,
+,,,,
+hph3lp-lgw.hph.com.local,Appliance,Julio Casiano,10.129.24.31,SuSE Linux Enterprise Server 15 SP3
+hph3lp-lgw2.hph.com.local,Appliance,Julio Casiano,10.129.24.32,Cisco Device
+,,,,
+,,,,
+hph3lp-netlog.hph.com.local,Server,Julio Casiano,10.129.201.76,Red Hat Enterprise Linux 9.8
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+hph3lp-ssmcisco.hph.com.local,Appliance,Julio Casiano,10.129.203.86,Ubuntu/Linux
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+hph3wp-dhcp01.hph.com.local,Server,Julio Casiano,10.129.203.148,Windows Server 2022 Standard 64 bit Edition Version 21H2
+hph3wp-dhcp02.hph.com.local,Server,Julio Casiano,10.129.201.148,Windows Server 2022 Standard 64 bit Edition Version 21H2
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+icalp-ccm01.hph.com.local,Appliance,Julio Casiano,10.129.16.10,Ubuntu / Tiny Core Linux / Linux 2.6.x / IBM ASM / HP StoreOnce / F5 Networks Big-IP
+,,,,
+icclp-ccm02.hph.com.local,Appliance,Julio Casiano,10.129.17.10,Ubuntu / Tiny Core Linux / Linux 2.6.x / IBM ASM / HP StoreOnce / F5 Networks Big-IP
+insurg_vgtw,Appliance,Julio Casiano,10.129.24.30,Cisco Device
+ros firewall,Firewall,Julio Casiano,10.129.254.1,-
+,,,,
+,,,,
+,,,,
+wlc-mor-151.122,Access point,Julio Casiano,10.129.151.122,Cisco IOS 11-15
+wlc-tec2-151.250,Access point,Julio Casiano,10.129.151.250,Cisco IOS 11-15
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+hph3wp-prtg.hph.com.local,Server,Julio Casiano,10.129.203.111,Windows Server 2025 Standard Version 24H2
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
