@@ -1,0 +1,194 @@
+﻿Computer Name,Logged On Users,Domain,Total Capacity (GB),Free Space (GB),Last Scan Time,Operating System,Used Space (%),Free Space (%),OS License Status
+HPH3WP-VPROXY01,,HPH,59,1,"Oct 8, 2026 11:14 PM",Windows Server 2025 Standard Edition (x64),98,2,Licensed
+HPH3WP-OCRLM,ocr.camco,HPH,2597,100,"Oct 8, 2026 11:06 PM",Windows Server 2022 Standard Edition (x64),96,4,Licensed
+HPH3WP-AD03,,HPH,142,101,"Oct 8, 2026 11:52 PM",Windows Server 2022 Datacenter Edition (x64),29,71,Licensed
+hph3lp-wproxy,,linuxosgroup,122,103,"Oct 8, 2026 11:33 PM",Red Hat Enterprise Linux release 9.8 (Plow),16,84,Unknown
+HPH2WP-CNVDI01,"administrator,horizon.eit",HPH,139,104,"Oct 8, 2026 11:51 PM",Windows Server 2022 Standard Edition (x64),25,75,Licensed
+HPH2WP-CNVDI02,,HPH,139,105,"Oct 8, 2026 11:12 PM",Windows Server 2022 Standard Edition (x64),24,76,Licensed
+HPH3WP-ADCONN,administrator,HPH,140,105,"Oct 8, 2026 11:21 PM",Windows Server 2016 Standard Edition (x64),25,75,Licensed
+hph4lr-ngendb01,,linuxosgroup,2203,1067,"Oct 8, 2026 11:41 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),52,48,Unknown
+hph3lp-ofmi01,,linuxosgroup,153,107,"Oct 8, 2026 11:39 PM",Red Hat Enterprise Linux release 9.8 (Plow),30,70,Unknown
+HPH2WP-CNVDI03,,HPH,139,109,"Oct 8, 2026 10:48 PM",Windows Server 2022 Standard Edition (x64),22,78,Licensed
+hph4lp-ngendb02,,linuxosgroup,1693,1092,"Oct 8, 2026 11:45 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),35,65,Unknown
+hph3lp-netlog,"usericave,netadmin",linuxosgroup,38,11,"Oct 8, 2026 11:02 PM",Red Hat Enterprise Linux release 9.8 (Plow),71,29,Unknown
+hph3lp-ofmi02,,linuxosgroup,153,111,"Oct 8, 2026 11:23 PM",Red Hat Enterprise Linux release 9.8 (Plow),27,73,Unknown
+HPH4WP-APVDI03,,HPH,159,111,"Oct 8, 2026 10:57 PM",Windows Server 2025 Standard Edition (x64),30,70,Licensed
+hph3lp-wlappsl02,,linuxosgroup,198,118,"Oct 8, 2026 11:46 PM",Red Hat Enterprise Linux Server release 7.6 (Maipo),40,60,Unknown
+hph3lr-ngendb,,linuxosgroup,2213,1199,"Oct 8, 2026 10:58 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),46,54,Unknown
+HPH3WP-DOCTRA,poler.icave,HPH,49,12,"Oct 8, 2026 11:13 PM",Windows Server 2022 Standard Edition (x64),76,24,Licensed
+HPH3WP-AZRELAY,,HPH,159,121,"Oct 8, 2026 10:39 PM",Windows Server 2016 Datacenter Edition (x64),24,76,Licensed
+hph3lp-cctv,,linuxosgroup,145,127,"Oct 8, 2026 11:01 PM",Red Hat Enterprise Linux release 9.8 (Plow),12,88,Unknown
+HPH3WP-SCADAS,scadaadmin,HPH,279,128,"Oct 8, 2026 10:38 PM",Windows Server 2022 Standard Edition (x64),54,46,Licensed
+hph3ld-vproxy01,root,linuxosgroup,21,13,"Oct 8, 2026 11:45 PM",Red Hat Enterprise Linux release 9.8 (Plow),38,62,Unknown
+HPH3WP-VPROXY03,,HPH,179,137,"Oct 8, 2026 10:58 PM",Windows Server 2022 Standard Edition (x64),23,77,Licensed
+HPH6WP-RELAY,"administrator,adminlctpc",HPH,199,148,"Oct 8, 2026 11:13 PM",Windows Server 2022 Standard Edition (x64),26,74,Licensed
+HPH3WP-WEBAPPSC,wservice,HPH,100,15,"Oct 8, 2026 11:31 PM",Windows Server 2022 Standard Edition (x64),85,15,Licensed
+hph6ld-ngendb,,linuxosgroup,308,150,"Oct 8, 2026 10:41 PM",Red Hat Enterprise Linux release 9.8 (Plow),51,49,Unknown
+hph4lr-ngenapp,,linuxosgroup,218,152,"Oct 8, 2026 11:49 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),30,70,Unknown
+HPH3WP-GRASP,"Innovadmin,administrator",HPH,309,155,"Oct 8, 2026 11:35 PM",Windows Server 2019 Standard Edition (x64),50,50,Licensed
+hph3lp-ngenapp01,,linuxosgroup,237,156,"Oct 8, 2026 11:59 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),34,66,Unknown
+hph3lp-odsdb,,linuxosgroup,359,156,"Oct 8, 2026 11:22 PM",Red Hat Enterprise Linux release 9.8 (Plow),57,43,Unknown
+HPH3WP-OCRBP,rpa,HPH,60,16,"Oct 8, 2026 11:33 PM",Windows Server 2022 Standard Edition (x64),73,27,Licensed
+HPH3WP-RPA,RPA,HPH,69,16,"Oct 8, 2026 11:03 PM",Windows Server 2022 Standard Edition (x64),77,23,Licensed
+hph3lp-wlapps01,,linuxosgroup,172,163,"Oct 8, 2026 10:42 PM",Red Hat Enterprise Linux release 9.8 (Plow),5,95,Unknown
+HPH3WP-SQL,,HPH,260,167,"Oct 8, 2026 11:32 PM",Windows Server 2016 Standard Edition (x64),36,64,Licensed
+hph3lp-sicrefis,velasquez.erika,linuxosgroup,35,17,"Oct 8, 2026 10:34 PM",Red Hat Enterprise Linux Server release 7.9 (Maipo),51,49,Unknown
+HPH3WP-OCRGOS,,HPH,49,17,"Oct 8, 2026 11:22 PM",Windows Server 2022 Standard Edition (x64),65,35,Licensed
+hph3lp-ngenapp02,,linuxosgroup,237,170,"Oct 8, 2026 11:50 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),28,72,Unknown
+hph3lq-ngenapp02,,linuxosgroup,291,172,"Oct 8, 2026 10:48 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),41,59,Unknown
+hph2lr-ngenapp01,,linuxosgroup,217,174,"Oct 9, 2026 12:00 AM",Red Hat Enterprise Linux release 9.8 (Plow),20,80,Unknown
+HPH3WP-OCRTROS,,HPH,290,176,"Sep 13, 2026 11:11 PM",Windows Server 2022 Standard Edition (x64),39,61,Licensed
+hph6lq-ngenapp01,"admdocker,usericave",linuxosgroup,287,177,"Oct 8, 2026 11:23 PM",Red Hat Enterprise Linux release 9.8 (Plow),38,62,Unknown
+hph2ld-ngendb,,linuxosgroup,310,179,"Oct 8, 2026 10:57 PM",Red Hat Enterprise Linux release 9.8 (Plow),42,58,Unknown
+hph3lq-ngenapp01,admdocker,linuxosgroup,291,184,"Oct 8, 2026 11:57 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),37,63,Unknown
+hph4lu-ngenapp01,,linuxosgroup,267,186,"Oct 8, 2026 10:55 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),30,70,Unknown
+hph4lu-ngenapp02,,linuxosgroup,267,186,"Oct 8, 2026 11:48 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),30,70,Unknown
+hph3lu-cdcdb02,,linuxosgroup,535,187,"Oct 8, 2026 11:40 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),65,35,Unknown
+HPH3WP-FS,,HPH,259,189,"Oct 8, 2026 11:17 PM",Windows Server 2022 Standard Edition (x64),27,73,Licensed
+hph4lp-ngenapp01,,linuxosgroup,267,193,"Oct 8, 2026 11:04 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),28,72,Unknown
+hph4lp-ngenapp02,,linuxosgroup,267,196,"Oct 8, 2026 10:44 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),27,73,Unknown
+hph2lp-ngenapp01,,linuxosgroup,295,197,"Oct 8, 2026 10:30 PM",Red Hat Enterprise Linux release 9.8 (Plow),33,67,Unknown
+HPH3WP-VPROXY4,,HPH,59,20,"Oct 9, 2026 12:00 AM",Windows Server 2022 Standard Edition (x64),66,34,Licensed
+hph3ld-cts,oracle,linuxosgroup,476,203,"Oct 8, 2026 10:37 PM",Red Hat Enterprise Linux release 9.8 (Plow),57,43,Unknown
+hph3ld-odsdb,"oracle,usericave",linuxosgroup,293,204,"Oct 8, 2026 10:39 PM",Red Hat Enterprise Linux release 9.8 (Plow),30,70,Unknown
+hph2lp-ngenapp02,,linuxosgroup,295,205,"Oct 8, 2026 11:19 PM",Red Hat Enterprise Linux release 9.8 (Plow),31,69,Unknown
+hph2lu-ngenapp01,admdocker,linuxosgroup,287,206,"Oct 8, 2026 11:07 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),28,72,Unknown
+HPH3WP-VPROXY05,,HPH,59,21,"Oct 8, 2026 10:46 PM",Windows Server 2022 Standard Edition (x64),64,36,Licensed
+hph2lu-ngenapp02,,linuxosgroup,286,211,"Oct 8, 2026 11:29 PM",Red Hat Enterprise Linux release 9.8 (Plow),26,74,Unknown
+HPH3WP-VBR,infradmin,HPH,22796,21870,"Oct 8, 2026 11:09 PM",Windows Server 2022 Standard Edition (x64),4,96,Licensed
+HPH3WP-DHCP02,,HPH,60,22,"Oct 8, 2026 10:44 PM",Windows Server 2022 Standard Edition (x64),63,37,Licensed
+HPH3WP-PRTG,netadmin,HPH,59,22,"Oct 8, 2026 11:37 PM",Windows Server 2025 Standard Edition (x64),63,37,Licensed
+HPH3WP-VPROXY08,,HPH,79,22,"Oct 8, 2026 11:25 PM",Windows Server 2022 Standard Edition (x64),72,28,Licensed
+HPH3WP-SQLDB,,HPH,259,222,"Oct 8, 2026 11:18 PM",Windows Server 2025 Standard Edition (x64),14,86,Licensed
+hph3lu-cdcdb01,,linuxosgroup,538,225,"Oct 8, 2026 11:44 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),58,42,Unknown
+hph6lq-ngenapp02,admdocker,linuxosgroup,287,226,"Oct 8, 2026 11:31 PM",Red Hat Enterprise Linux release 9.8 (Plow),21,79,Unknown
+HPH3WP-ADCRO01,,HPH,59,23,"Oct 8, 2026 11:45 PM",Windows Server 2022 Standard Edition (x64),61,39,Licensed
+HPH3WP-RELAY,,HPH,59,23,"Oct 8, 2026 10:41 PM",Windows Server 2019 Standard Edition (x64),61,39,Licensed
+HPH3WP-VPROXY1,,HPH,79,23,"Oct 8, 2026 11:35 PM",Windows Server 2022 Standard Edition (x64),71,29,Licensed
+hph3lu-cdcdb03,,linuxosgroup,534,233,"Oct 8, 2026 10:32 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),56,44,Unknown
+HPH3WD-CVSAT,SAT,HPH,59,25,"Oct 8, 2026 10:34 PM",Windows Server 2022 Standard Edition (x64),58,42,Licensed
+HPH3WP-VPROXY5,,HPH,59,25,"Oct 8, 2026 11:43 PM",Windows Server 2022 Standard Edition (x64),58,42,Licensed
+HPH3WP-DHCP01,netadmin,HPH,60,26,"Oct 8, 2026 10:44 PM",Windows Server 2022 Standard Edition (x64),57,43,Licensed
+HPH3WP-VPROXY04,,HPH,4254,2606,"Oct 8, 2026 11:36 PM",Windows Server 2019 Datacenter Edition (x64),39,61,Licensed
+HPH3WP-ADSCS,,HPH,59,27,"Oct 8, 2026 11:27 PM",Windows Server 2022 Standard Edition (x64),54,46,Licensed
+HPH3WP-CCIWEB,cciadmin,HPH,79,27,"Oct 8, 2026 10:47 PM",Windows Server 2025 Standard Edition (x64),66,34,Licensed
+HPH3WP-DNS01,,HPH,59,27,"Oct 8, 2026 10:54 PM",Windows Server 2022 Standard Edition (x64),54,46,Licensed
+hph3lp-hrsdb,,linuxosgroup,413,276,"Oct 8, 2026 11:07 PM",Red Hat Enterprise Linux release 9.8 (Plow),33,67,Unknown
+HPH3WP-VPROXY2,,HPH,59,3,"Oct 8, 2026 11:19 PM",Windows Server 2022 Standard Edition (x64),95,5,Licensed
+HPH3WP-ACD2,,HPH,59,30,"Oct 8, 2026 11:20 PM",Windows Server 2022 Standard Edition (x64),49,51,Licensed
+HPH3WP-CCIAPP,"cciadmin,OBREGON.LEONARDO,adminti.cci,sup.impuestos,almacen.zlo,dajio.magdalena,rivas.saul",HPH,239,30,"Oct 8, 2026 11:23 PM",Windows Server 2022 Standard Edition (x64),87,13,Licensed
+hph3lr-nedr,,linuxosgroup,76,31,"Oct 8, 2026 11:15 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),59,41,Unknown
+HPH3WP-MID,,HPH,69,31,"Oct 8, 2026 11:15 PM",Windows Server 2022 Standard Edition (x64),55,45,Licensed
+HPH3WP-VRO,infradmin,HPH,426,318,"Oct 8, 2026 10:37 PM",Windows Server 2025 Datacenter Edition (x64),25,75,Licensed
+hph3lp-bipub01,,linuxosgroup,75,32,"Oct 8, 2026 11:27 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),57,43,Unknown
+HPH3WP-CONVDI,,HPH,69,33,"Oct 8, 2026 11:34 PM",Windows Server 2019 Standard Edition (x64),52,48,Licensed
+hph3ld-rac,,linuxosgroup,454,336,"Oct 8, 2026 11:25 PM",Red Hat Enterprise Linux release 9.8 (Plow),26,74,Unknown
+hph2lr-ngendbsync01,,linuxosgroup,779,337,"Oct 8, 2026 10:37 PM",Red Hat Enterprise Linux release 9.8 (Plow),57,43,Unknown
+HPH3WP-UEM,infradmin,HPH,500,339,"Oct 8, 2026 11:14 PM",Windows Server 2022 Standard Edition (x64),32,68,Licensed
+HPH3WD-OFM12C,weblogic.hph,HPH,119,34,"Oct 8, 2026 11:37 PM",Windows Server 2022 Standard Edition (x64),71,29,Licensed
+HPH3WP-VPROXY02,,HPH,79,34,"Oct 8, 2026 11:31 PM",Windows Server 2022 Standard Edition (x64),57,43,Licensed
+HPH3WP-VBACKUP,infradmin,HPH,682,340,"Oct 8, 2026 11:39 PM",Windows Server 2022 Datacenter Edition (x64),50,50,Licensed
+HPH3WP-VBCKWS,infradmin,HPH,634,342,"Oct 8, 2026 11:47 PM",Windows Server 2019 Datacenter Edition (x64),46,54,Licensed
+hph3lr-cts,,linuxosgroup,1557,343,"Oct 8, 2026 10:35 PM",Red Hat Enterprise Linux release 9.8 (Plow),78,22,Unknown
+ICAWP-FS,administrator,HPH,2279,343,"Oct 8, 2026 10:49 PM",Windows Server 2016 Standard Edition (x64),85,15,Licensed
+HPH3WP-OPMGR,administrator,HPH,100,35,"Oct 8, 2026 10:43 PM",Windows Server 2022 Standard Edition (x64),65,35,Licensed
+hph4lp-cdcdb03,,linuxosgroup,535,363,"Oct 8, 2026 11:54 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),32,68,Unknown
+hph3lp-cdcdb01,,linuxosgroup,737,367,"Oct 8, 2026 11:28 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),50,50,Unknown
+HPH3WP-FACTURA,factura,HPH,200,37,"Oct 8, 2026 11:05 PM",Windows Server 2022 Standard Edition (x64),82,19,Licensed
+hph3lp-cdcdb02,,linuxosgroup,736,376,"Oct 8, 2026 11:03 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),49,51,Unknown
+hph3ld-ngentest01,usericave,linuxosgroup,125,38,"Oct 8, 2026 10:38 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),70,30,Unknown
+hph3lp-cntrmobile01,,linuxosgroup,65,38,"Oct 8, 2026 11:42 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),42,58,Unknown
+HPH3WD-FACTURA,,HPH,159,38,"Oct 5, 2026 10:57 PM",Windows Server 2022 Standard Edition (x64),76,24,Licensed
+HPH3WP-APPS,ediwin,HPH,130,38,"Oct 8, 2026 11:54 PM",Windows Server 2022 Standard Edition (x64),71,29,Licensed
+HPH3WP-CONTPAQ2,imagenes,HPH,249,38,"Oct 8, 2026 11:30 PM",Windows Server 2019 Standard Edition (x64),85,15,Licensed
+HPH3WP-POWERGTW,poler.icave,HPH,99,38,"Oct 8, 2026 11:11 PM",Windows Server 2022 Standard Edition (x64),62,38,Licensed
+hph3lp-contaefile,,linuxosgroup,53,39,"Oct 8, 2026 11:53 PM",Red Hat Enterprise Linux release 9.8 (Plow),26,74,Unknown
+HPH3WP-ECOMAPP,imagenes,HPH,549,39,"Oct 8, 2026 11:29 PM",Windows Server 2019 Standard Edition (x64),93,7,Licensed
+hph3lp-cdcdb03,,linuxosgroup,535,395,"Oct 8, 2026 11:21 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),26,74,Unknown
+HPH3WP-UEMSRV,,HPH,499,408,"Oct 8, 2026 11:04 PM",Windows Server 2025 Standard Edition (x64),18,82,Licensed
+hph3lp-web,,linuxosgroup,53,41,"Oct 8, 2026 10:45 PM",Red Hat Enterprise Linux release 10.2 (Coughlan),23,77,Unknown
+hph3lp-wladuana,,linuxosgroup,99,41,"Oct 8, 2026 10:48 PM",Red Hat Enterprise Linux Server release 7.9 (Maipo),59,41,Unknown
+hph4lp-cdcdb01,,linuxosgroup,737,422,"Oct 8, 2026 10:41 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),43,57,Unknown
+HPH3WP-COSTOSPM,Innovadmin,HPH,145,44,"Oct 8, 2026 11:33 PM",Windows Server 2016 Standard Edition (x64),70,30,Licensed
+hph3lp-cntrmobile02,,linuxosgroup,65,45,"Oct 8, 2026 11:20 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),31,69,Unknown
+hph4lu-nedr,,linuxosgroup,71,45,"Oct 8, 2026 10:32 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),37,63,Unknown
+hph2lp-cdcdb3,,linuxosgroup,539,453,"Oct 8, 2026 10:58 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),16,84,Unknown
+hph3lp-bp02,usericave,linuxosgroup,69,46,"Oct 8, 2026 10:55 PM",Red Hat Enterprise Linux release 9.8 (Plow),33,67,Unknown
+HPH3WP-WSERVICE,wservice,HPH,99,46,"Oct 8, 2026 10:43 PM",Windows Server 2022 Standard Edition (x64),54,46,Licensed
+hph4lr-nedr,,linuxosgroup,73,46,"Oct 8, 2026 11:09 PM",Red Hat Enterprise Linux release 9.8 (Plow),37,63,Unknown
+hph3lp-ctslb,,linuxosgroup,63,47,"Oct 8, 2026 10:59 PM",Red Hat Enterprise Linux release 9.8 (Plow),25,75,Unknown
+HPH3WP-GPRS2,Innovadmin,HPH,180,47,"Oct 8, 2026 11:04 PM",Windows Server 2022 Standard Edition (x64),74,26,Licensed
+hph4lp-nedr,,linuxosgroup,74,47,"Oct 8, 2026 10:48 PM",Red Hat Enterprise Linux release 9.8 (Plow),36,64,Unknown
+hph2lp-cdcdb1,,linuxosgroup,738,477,"Oct 8, 2026 11:02 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),35,65,Unknown
+hph4lp-cdcdb02,,linuxosgroup,738,480,"Oct 8, 2026 10:50 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),35,65,Unknown
+hph3lp-ctsdb01,oracle,linuxosgroup,1312,489,"Oct 8, 2026 11:38 PM",Red Hat Enterprise Linux release 9.8 (Plow),63,37,Unknown
+hph2lp-nedr01,,linuxosgroup,71,49,"Oct 8, 2026 10:46 PM",Red Hat Enterprise Linux release 9.8 (Plow),31,69,Unknown
+hph2lu-nedr01,,linuxosgroup,73,49,"Oct 8, 2026 11:09 PM",Red Hat Enterprise Linux release 9.8 (Plow),33,67,Unknown
+hph3lp-nedr,,linuxosgroup,74,49,"Oct 8, 2026 11:47 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),34,66,Unknown
+hph6lq-nedr,"ulctodiu,usericave",linuxosgroup,72,49,"Oct 8, 2026 11:55 PM",Red Hat Enterprise Linux release 9.8 (Plow),32,68,Unknown
+hph3ld-ngentest02,,linuxosgroup,125,50,"Oct 8, 2026 11:29 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),60,40,Unknown
+hph2lp-cdcdb2,,linuxosgroup,736,503,"Oct 8, 2026 11:47 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),32,68,Unknown
+HPH3WP-ADMGR,,HPH,571,504,"Oct 8, 2026 10:43 PM",Windows Server 2025 Standard Edition (x64),12,88,Licensed
+hph3ld-wservices,,linuxosgroup,64,51,"Oct 8, 2026 11:56 PM",Red Hat Enterprise Linux release 9.8 (Plow),20,80,Unknown
+hph2lr-nedr01,,linuxosgroup,73,53,"Oct 8, 2026 11:55 PM",Red Hat Enterprise Linux release 9.8 (Plow),27,73,Unknown
+hph3ld-ctslb,admowner,linuxosgroup,64,53,"Oct 8, 2026 11:15 PM",Red Hat Enterprise Linux release 9.8 (Plow),17,83,Unknown
+hph3lp-ofmn01,"admowner,root",linuxosgroup,99,53,"Oct 8, 2026 11:58 PM",Red Hat Enterprise Linux Server release 7.9 (Maipo),46,54,Unknown
+HPH3WP-CVSAT02,sat,HPH,99,53,"Oct 8, 2026 10:54 PM",Windows Server 2022 Standard Edition (x64),46,54,Licensed
+hph3lp-sentinelgtw,,linuxosgroup,67,54,"Oct 8, 2026 11:51 PM",Red Hat Enterprise Linux release 9.8 (Plow),19,81,Unknown
+hph4lr-ngendbsync01,,linuxosgroup,779,552,"Oct 8, 2026 11:29 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),29,71,Unknown
+hph3lp-ctsdb02,,linuxosgroup,1312,558,"Oct 8, 2026 11:11 PM",Red Hat Enterprise Linux release 9.8 (Plow),57,43,Unknown
+hph3lp-app12c01,"root,admowner,usericave",linuxosgroup,105,56,"Oct 8, 2026 11:26 PM",Red Hat Enterprise Linux Server release 6.10 (Santiago),47,53,Unknown
+HPH3WP-ACCESOS,soporteadmin,HPH,249,59,"Oct 8, 2026 11:05 PM",Windows Server 2025 Standard Edition (x64),76,24,Licensed
+HPH4WP-RDS,horizon.timsa,HPH,109,59,"Oct 8, 2026 10:42 PM",Windows Server 2022 Standard Edition (x64),46,54,Licensed
+hph3ld-ords,,linuxosgroup,73,60,"Oct 8, 2026 11:31 PM",Red Hat Enterprise Linux release 9.8 (Plow),18,82,Unknown
+hph3lp-ofmn02,,linuxosgroup,96,61,"Oct 8, 2026 10:55 PM",Red Hat Enterprise Linux Server release 7.9 (Maipo),36,64,Unknown
+HPH3WP-CVSAT03,sat,HPH,99,62,"Oct 8, 2026 11:59 PM",Windows Server 2022 Standard Edition (x64),37,63,Licensed
+HPH3WP-CVSAT01,"sat,administrator",HPH,99,63,"Oct 8, 2026 11:42 PM",Windows Server 2022 Standard Edition (x64),36,64,Licensed
+HPH3WP-CVSAT04,sat,HPH,99,63,"Oct 8, 2026 10:49 PM",Windows Server 2022 Standard Edition (x64),36,64,Licensed
+hph3lp-ngendb2,,linuxosgroup,1292,630,"Oct 8, 2026 11:35 PM",Red Hat Enterprise Linux release 9.8 (Plow),51,49,Unknown
+HPH3WP-CVSAT05,sat,HPH,99,64,"Oct 8, 2026 11:44 PM",Windows Server 2022 Standard Edition (x64),35,65,Licensed
+hph3lq-nedr,,linuxosgroup,117,65,"Oct 8, 2026 11:42 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),44,56,Unknown
+HPH3WP-WPSERVER,imagenes,HPH,249,65,"Oct 8, 2026 10:44 PM",Windows Server 2022 Standard Edition (x64),74,26,Licensed
+HPH3WP-POLER01,poler.icave,HPH,119,66,"Oct 8, 2026 11:13 PM",Windows Server 2019 Standard Edition (x64),45,55,Licensed
+HPH4WP-RDS01,"administrator,horizon.timsa",HPH,109,67,"Oct 8, 2026 11:36 PM",Windows Server 2025 Standard Edition (x64),39,61,Licensed
+hph2lp-ngendb01,,linuxosgroup,1678,677,"Oct 8, 2026 11:48 PM",Red Hat Enterprise Linux release 9.8 (Plow),60,40,Unknown
+hph3lp-ngendb1,"oracle,usericave",linuxosgroup,1292,680,"Oct 8, 2026 10:51 PM",Red Hat Enterprise Linux release 9.8 (Plow),47,53,Unknown
+HPH3WP-BCKP,administrator,HPH,1434,689,"Oct 8, 2026 11:42 PM",Windows Server 2022 Standard Edition (x64),52,48,Licensed
+HPH3WM-POLERDM,poler.icave,HPH,99,69,"Oct 8, 2026 11:50 PM",Windows Server 2019 Standard Edition (x64),30,70,Licensed
+HPH3WP-METEORO,meteoro,HPH,59,7,"Oct 8, 2026 10:52 PM",Windows Server 2022 Standard Edition (x64),88,12,Licensed
+HPH3WP-VPROXY3,,HPH,59,7,"Oct 8, 2026 11:57 PM",Windows Server 2022 Standard Edition (x64),88,12,Licensed
+HPH3WQ-POLER02,poler.icave,HPH,99,71,"Oct 8, 2026 11:34 PM",Windows Server 2019 Standard Edition (x64),28,72,Licensed
+hph6lr-ngendb1,usericave,linuxosgroup,1629,731,"Oct 8, 2026 11:11 PM",Red Hat Enterprise Linux release 9.8 (Plow),55,45,Unknown
+HPH4WP-CONVDI02,horizon.timsa,HPH,109,74,"Oct 8, 2026 11:11 PM",Windows Server 2025 Standard Edition (x64),32,68,Licensed
+hph4lp-ngendb01,,linuxosgroup,1693,747,"Oct 8, 2026 11:48 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),56,44,Unknown
+HPH4WP-CONVDI01,"horizon.timsa,administrator",HPH,109,75,"Oct 8, 2026 11:19 PM",Windows Server 2025 Standard Edition (x64),31,69,Licensed
+HPH4WP-CONVDI03,horizon.timsa,HPH,109,75,"Oct 8, 2026 11:18 PM",Windows Server 2025 Standard Edition (x64),31,69,Licensed
+HPH2WP-APPVDI04,"hernandez.adiel,ramirez.belen,fonseca.luis,rcovarrubiash,cobix.irving,apolinar.jorge,castro.sergio,osuna.roberto,ortiz.francisco",HPH,159,76,"Oct 8, 2026 10:41 PM",Windows Server 2022 Standard Edition (x64),52,48,Licensed
+HPH3WP-POLER02,poler.icave,HPH,119,76,"Oct 8, 2026 11:18 PM",Windows Server 2019 Standard Edition (x64),36,64,Licensed
+hph2lp-ngendb02,,linuxosgroup,1678,794,"Oct 8, 2026 11:12 PM",Red Hat Enterprise Linux release 9.8 (Plow),53,47,Unknown
+HPH3WP-ADC02,"administrator,icaveadmin",HPH,119,80,"Oct 8, 2026 10:53 PM",Windows Server 2022 Standard Edition (x64),33,67,Licensed
+HPH3WQ-POLER01,poler.icave,HPH,119,81,"Oct 8, 2026 11:56 PM",Windows Server 2019 Standard Edition (x64),32,68,Licensed
+HPH2WP-APPVDI01,lvalenzuela,HPH,159,82,"Oct 8, 2026 10:42 PM",Windows Server 2022 Standard Edition (x64),48,52,Licensed
+HPH2WP-ADC02,,HPH,119,83,"Oct 8, 2026 11:12 PM",Windows Server 2022 Standard Edition (x64),30,70,Licensed
+HPH2WP-APPVDI03,"rcastillo,oviedo.said",HPH,159,83,"Oct 8, 2026 11:17 PM",Windows Server 2022 Standard Edition (x64),48,52,Licensed
+HPH3WD-OFMI,,HPH,119,83,"Oct 8, 2026 11:26 PM",Windows Server 2025 Standard Edition (x64),30,70,Licensed
+HPH3WP-ADC01,"administrator,icaveadmin",HPH,119,83,"Oct 8, 2026 10:34 PM",Windows Server 2022 Standard Edition (x64),30,70,Licensed
+HPH4WP-APVDI02,"Mariscal.ana,Villa.griselda,nava.raul,heredia.joel,cobarruvias.maria,ALCANTAR.LUIS,mosqueda.carlos",HPH,159,83,"Oct 8, 2026 11:37 PM",Windows Server 2025 Standard Edition (x64),48,52,Licensed
+HPH6WP-ADC02,,HPH,119,83,"Oct 8, 2026 10:53 PM",Windows Server 2022 Standard Edition (x64),30,70,Licensed
+HPH4WP-ADC02,,HPH,119,84,"Oct 8, 2026 10:45 PM",Windows Server 2022 Standard Edition (x64),29,71,Licensed
+HPH2WP-ADC01,,HPH,119,85,"Oct 8, 2026 11:46 PM",Windows Server 2022 Standard Edition (x64),29,71,Licensed
+HPH4WP-ADC01,,HPH,119,85,"Oct 8, 2026 11:01 PM",Windows Server 2022 Standard Edition (x64),29,71,Licensed
+HPH7WP-ADC02,,HPH,119,85,"Oct 8, 2026 11:11 PM",Windows Server 2022 Standard Edition (x64),29,71,Licensed
+HPH6WP-ADC01,,HPH,119,86,"Oct 8, 2026 11:55 PM",Windows Server 2022 Standard Edition (x64),28,72,Licensed
+HPH7WP-ADC01,,HPH,119,86,"Oct 8, 2026 11:57 PM",Windows Server 2022 Standard Edition (x64),28,72,Licensed
+hph2lr-ngendb01,,linuxosgroup,1629,868,"Oct 8, 2026 10:57 PM",Red Hat Enterprise Linux release 9.8 (Plow),47,53,Unknown
+HPH4WP-APVDI01,"calvillo.odalyz,CAMACHO.SALUSTIANO,OSEGUEDA.KARLA,Vences.zayra,CHAVEZ.ROCIO",HPH,159,87,"Sep 28, 2026 11:59 PM",Windows Server 2025 Standard Edition (x64),45,55,Licensed
+HPH3WP-RFID,rfid.icave,HPH,49,9,"Oct 8, 2026 11:48 PM",Windows Server 2022 Standard Edition (x64),82,18,Licensed
+hph3lr-rac,,linuxosgroup,1359,921,"Oct 8, 2026 11:05 PM",Red Hat Enterprise Linux release 9.8 (Plow),32,68,Unknown
+hph3lp-wlappsl01,admowner,linuxosgroup,205,93,"Oct 8, 2026 11:01 PM",Red Hat Enterprise Linux Server release 7.6 (Maipo),55,45,Unknown
+hph3lu-ngendb,oracle,linuxosgroup,264,94,"Oct 8, 2026 10:47 PM",Red Hat Enterprise Linux release 9.8 (Plow),64,36,Unknown
+hph4ld-ngendb,,linuxosgroup,261,94,"Oct 8, 2026 11:26 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),64,36,Unknown
+HPH2WP-APPVDI02,,HPH,159,95,"Oct 8, 2026 10:33 PM",Windows Server 2022 Standard Edition (x64),40,60,Licensed
+hph3lr-ngenapp,,linuxosgroup,124,96,"Oct 8, 2026 11:18 PM",Red Hat Enterprise Linux release 8.10 (Ootpa),23,77,Unknown
+HPH3WP-OCRWEB,,HPH,139,96,"Oct 8, 2026 10:35 PM",Windows Server 2022 Standard Edition (x64),31,69,Licensed
+HPH3WP-OCRCM,,HPH,149,99,"Oct 8, 2026 11:22 PM",Windows Server 2022 Standard Edition (x64),34,66,Licensed
